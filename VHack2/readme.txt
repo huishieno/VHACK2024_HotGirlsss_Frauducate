@@ -23,4 +23,6 @@ Please make sure your device is connected to the Internet to be able to load the
 
 Video Link
 ---------------
-https://sotonac-my.sharepoint.com/:v:/g/personal/hso1n21_soton_ac_uk/EXS3I0Mn-RlHra1BJWp0gXMBpWXjICaOwZ7zZqwwNdKRhQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=UIZPLa
+OneDrive Video Link: https://sotonac-my.sharepoint.com/:v:/g/personal/hso1n21_soton_ac_uk/EXS3I0Mn-RlHra1BJWp0gXMBpWXjICaOwZ7zZqwwNdKRhQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=UIZPLa
+
+Google Drive Video Link: https://drive.google.com/file/d/1vxbNloW_PKGTWIQL4b9gtKTetFDsZBjs/view?usp=sharing
