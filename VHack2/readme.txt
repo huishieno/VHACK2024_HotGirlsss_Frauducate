@@ -20,3 +20,7 @@ Languages used:
 General Notes
 ---------------
 Please make sure your device is connected to the Internet to be able to load the images.
+
+Video Link
+---------------
+https://sotonac-my.sharepoint.com/:v:/g/personal/hso1n21_soton_ac_uk/EXS3I0Mn-RlHra1BJWp0gXMBpWXjICaOwZ7zZqwwNdKRhQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=UIZPLa
